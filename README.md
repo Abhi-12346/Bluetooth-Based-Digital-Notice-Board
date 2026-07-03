@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/395b0632-b9c5-42ec-a5a1-d57a7d7bcf2d
 
 ## Author
 
-**Shravani Gangadhar Kalkote**
+**Abhijeet Anil kharade**
 
 BE – Electronics & Telecommunication Engineering
 
